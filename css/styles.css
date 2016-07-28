@@ -1,0 +1,47 @@
+/*========= GLOBAL STYLES =========*/
+
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light|Bangers|Rock+Salt|Shadows+Into+Light+Two);
+
+/*font-family: 'Permanent Marker', cursive;*/
+/*font-family: 'Shadows Into Light Two', cursive;*/
+
+html, body {
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color:lightgrey;
+    font-family: 'Rock Salt', Trebuchet MS, cursive; 
+    
+}
+h1, h2, h3 {
+    margin:0px;
+    padding:0px;
+    color: darkorchid; 
+}
+
+p {
+    margin: 15px 0px;    
+}
+
+b, strong {
+    color: darkorchid;
+}
+
+a {
+    color: black;
+    text-decoration: none
+}
+
+a:hover {
+    color: white;
+}
+
+.mainWidth {
+    width:1200px;
+}
+
+/* ======== HEADER STYLES ======== */
